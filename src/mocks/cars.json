@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "brand": "Opel",
+        "model": "Corsa",
+        "year": 1983,
+        "fuel": "petrol",
+        "doors": 3
+    },
+    {
+        "id": 2,
+        "brand": "Seat",
+        "model": "Ibiza",
+        "year": 1999,
+        "fuel": "petrol",
+        "doors": 5
+}]
